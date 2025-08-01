@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Emily!
 
-<!--
-**EmilyOliv/EmilyOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my page, I am a CS major on a journey to become a software engineer — learning, building, and growing along the way
+- 🌱 I am a student at Hunter College
+- 🌸 I am drawn to areas like AI and software development, and I'm open to learning about other fields as I grow in my journey
+- 🌺 Pronouns: She/Her
+- 📫 Reach me:(https://www.linkedin.com/in/emily-olivares-a201b3324/) 
+_________________________________________________________________________________________________________________________________
+Technical Skills
+Language: C++, Python, HTML, CSS, Javascript
+_________________________________________________________________________________________________________________________________
+Hobbies/Interests
+- I’m interested in AI and building software that improves lives through thoughtful engineering and design
+- Whether it’s baking or building Legos, I enjoy activities that require focus, imagination, and a sense of process
 
-Here are some ideas to get you started:
+  ![Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmilyOliv&show_icons=true&theme=radical)
+_________________________________________________________________________________________________________________________________
+🌷 Connect with Me
+- Linkedin: (https://www.linkedin.com/in/emily-olivares-a201b3324/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
